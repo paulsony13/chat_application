@@ -49,4 +49,8 @@
     "patch-package": "^6.2.2",
     "postinstall-postinstall": "^2.1.0"
   }
+  
+  "publishConfig": {
+    "registry": "http://localhost:8081/repository/npm-private/"
+  }
 }
